@@ -1,4 +1,4 @@
 Hi! My name is Jaina 
-This is an introduction
-afiueefh
-Making Changes 
+
+This includes a detailed description of things and me
+Because this is no more an introduction.
